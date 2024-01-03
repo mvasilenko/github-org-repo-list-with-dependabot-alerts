@@ -1,1 +1,1 @@
-# github-org-repo-list-with-dependabot-alerts
+Python script producing a CSV file containing information about all GitHub organization repositories, including details like the last commit, author, and counts of critical and high open alerts related to Dependabot security vulnerabilities
